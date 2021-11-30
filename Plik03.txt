@@ -1,2 +1,7 @@
 Zmiana 07b
+<<<<<<< HEAD
 Naprawa błędów 002
+=======
+Uproszczony interfejs graficzny
+dodano asystenta
+>>>>>>> easierapp
