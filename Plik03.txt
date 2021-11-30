@@ -4,5 +4,5 @@ oraz
 Uproszczony interfejs graficzny
 dodano asystenta
 zmiana08
-
 zmiana09
+zmiana10
