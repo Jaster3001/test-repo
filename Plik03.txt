@@ -1,8 +1,1 @@
 Zmiana 07b
-Naprawa błędów 002
-oraz
-Uproszczony interfejs graficzny
-dodano asystenta
-zmiana08
-zmiana09
-zmiana10
